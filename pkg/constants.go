@@ -17,7 +17,7 @@ var (
 	RecvMsgChan = make(chan gopacket.Packet)
 	SendMsgChan = make(chan []byte)
 	//Brokers     = []string{"10.16.244.29:9092"}
-	Brokers     = []string{"10.248.224.155:9092"}
+	Brokers     = []string{"10.248.224.155:9092"}	// Kafka消息队列地址
 	Producer    sarama.AsyncProducer
 	Sem         = make(chan int, MaxReqs) // 限制goroutine并发数量
 )
