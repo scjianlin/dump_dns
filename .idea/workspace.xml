@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="83933c1b-0852-4d73-a049-6c3d5f2944bb" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="GOROOT" path="/usr/local/go" />
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+  </component>
+  <component name="ProjectId" id="1nd9wbxwNMAzGlo21yf6x6xBlxk" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="configurable.Global.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Module.GOPATH.is.expanded" value="false" />
+    <property name="configurable.Project.GOPATH.is.expanded" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="go.vgo" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+    <environment>
+      <map>
+        <entry key="GOPROXY" value="https://goproxy.io,direct" />
+      </map>
+    </environment>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="424" y="169" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1611709431272">
+      <screen x="0" y="25" width="1920" height="970" />
+    </state>
+    <state x="424" y="169" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1920.25.1920.1055/0.25.1920.970@0.25.1920.970" timestamp="1611709431272" />
+    <state x="863" y="376" key="EnvironmentVariablesDialog" timestamp="1611709458885">
+      <screen x="0" y="25" width="1920" height="970" />
+    </state>
+    <state x="863" y="376" key="EnvironmentVariablesDialog/-1920.25.1920.1055/0.25.1920.970@0.25.1920.970" timestamp="1611709458885" />
+    <state x="469" y="146" key="SettingsEditor" timestamp="1611709461892">
+      <screen x="0" y="25" width="1920" height="970" />
+    </state>
+    <state x="469" y="146" key="SettingsEditor/-1920.25.1920.1055/0.25.1920.970@0.25.1920.970" timestamp="1611709461892" />
+  </component>
+</project>
