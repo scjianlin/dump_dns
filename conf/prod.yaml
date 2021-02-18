@@ -1,0 +1,4 @@
+base:
+  deviceName: eth0  #监听设备
+  brokers: 10.248.224.155:9092  #消息队列地址
+  topic: dns-query-log #kafka消息队列名称

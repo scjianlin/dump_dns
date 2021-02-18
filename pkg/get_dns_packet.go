@@ -17,7 +17,8 @@ func filters() string {
 func GetPacket(ch chan gopacket.Packet) {
 
 	// 打开网络接口，抓取在线数据
-	handle, err := pcap.OpenLive(deviceName, snapLen, true, pcap.BlockForever)
+	//handle, err := pcap.OpenLive(deviceName, snapLen, true, pcap.BlockForever)
+	handle, err := pcap.OpenLive(Conf.Base.DeviceName, snapLen, true, pcap.BlockForever)
 	if err != nil {
 		fmt.Printf("pcap open live failed: %v", err)
 		return
